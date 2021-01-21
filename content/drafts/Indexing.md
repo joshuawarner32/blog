@@ -12,6 +12,7 @@ I'd like to avoid absolutes, so I'll avoid proclaiming why _you_ should use 0-ba
 
 
 ## Points
+* Respect! It's ok (and frankly, good) that we're exploring multiple solution spaces.
 * Simple vs Easy, Rich Hickey
     * "Easy" for me is 0-based indexing (bias based on history)
 * Bias of human history (why are indices in human languages 1-based?)
